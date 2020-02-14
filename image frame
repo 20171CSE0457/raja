@@ -1,0 +1,9 @@
+<html>
+<img src="workplace.jpg" alt="workplace" usemap="#workmap">
+<map name="workmap">
+<area shape="rect" coords="34,44,270,350" alt="computer" href="float.html">
+<area shape="rect" coords="340,297,44" alt="phone" href=float.html>
+<area shape="circle coords=340,297,44" alt="cup" href=float.html>
+</map>
+</img>
+</html>

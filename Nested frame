@@ -1,0 +1,15 @@
+<html>
+<head><title>Nested frames</title>
+</head>
+<frameset cols="40%,*">
+<frameset rows="50%,*">
+  <frame src="/home/Sem6B7/Desktop/CSE0457/Untitled Document 5"/>
+  <frame src="/home/Sem6B7/Desktop/CSE0457/Untitled Document 1"/>
+</frameset>
+<frameset rows="20%,35%,*">
+  <frame src="/home/Sem6B7/Desktop/CSE0457/Untitled Document 2"/>
+  <frame src="/home/Sem6B7/Desktop/CSE0457/Untitled Document 3"/>
+  <frame src="/home/Sem6B7/Desktop/CSE0457/Untitled Document 4"/>
+</frameset>
+</framest>
+</html>
